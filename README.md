@@ -1,4 +1,4 @@
-# ASSIGNED SAMPLE PROJECT NAME 
+# Stock Management System 
 This project is created for academic demonstration purpose only 
 Software Configuration Management using GitHub.
 Student Name: <Godala Yashwanth Reddy> 
